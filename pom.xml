@@ -40,16 +40,17 @@
   
 <distributionManagement>
     <repository>
-        <id>cts-nexus</id>
-        <name>bd7e4d6b271d-releases</name>
-        <url>http://13.232.53.166:8081/nexus/content/repositories/3dx/</url>
+        <id>4ace8cfba851</id>
+        <name>4ace8cfba851-releases</name>
+        <url>http://10.76.118.113:8085/artifactory/anil-repo</url>
     </repository>
     <snapshotRepository>
-        <id>cts-nexus</id>
-        <name>bd7e4d6b271d-snapshots</name>
-        <url>http://13.232.53.166:8081/nexus/content/repositories/3dx/</url>
+        <id>4ace8cfba851</id>
+        <name>4ace8cfba851-snapshots</name>
+        <url>http://10.76.118.113:8085/artifactory/anil-repo</url>
     </snapshotRepository>
 </distributionManagement>
+
 
 
 
